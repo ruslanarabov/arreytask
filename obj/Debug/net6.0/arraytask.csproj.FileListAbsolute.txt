@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/bin/Debug/net6.0/arraytask
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/bin/Debug/net6.0/arraytask.deps.json
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/bin/Debug/net6.0/arraytask.runtimeconfig.json
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/bin/Debug/net6.0/arraytask.dll
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/bin/Debug/net6.0/arraytask.pdb
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.AssemblyInfo.cs
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.dll
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/refint/arraytask.dll
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.pdb
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/arraytask.genruntimeconfig.cache
+/Users/macbook/Desktop/arreytask/arraytask/arraytask/obj/Debug/net6.0/ref/arraytask.dll
