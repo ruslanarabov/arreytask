@@ -13,44 +13,28 @@
 #endregion
 
 
-
-
 #region task2
-string[] items = new { Id = 1, Product = "Apple", Price = 2000 };
-string[] items = new { Id = 2, Product = "Samsung", Price = 1500 };
-string[] items = new { Id = 3, Product = "Xiomi", Price = 700 };
-string[] items = new { Id = 4, Product = "Honor", Price = 500 };
-string[] items = new { Id = 5, Product = "Oppo", Price = 350 };
+
+var item1 = new { Id = 1, Product = "Apple", Price = 2000 };
+var item2 = new { Id = 2, Product = "Samsung", Price = 1500 };
+var item3 = new { Id = 3, Product = "Xiomi", Price = 700 };
+var item4 = new { Id = 4, Product = "Honor", Price = 500 };
+var item5 = new { Id = 5, Product = "Oppo", Price = 350 };
+var items = new[] { item1, item2, item3, item4, item5 };
 
 int sum = 0;
 int count = 0;
 
-for (int i = 0; i < items.Length; i++ )
+for (int i = 0; i < items.Length; i++)
 {
-    if (items[i].Id % 2 != 0)
+    if (items[i].Id % 2 == 1)
     {
         sum += items[i].Price;
         count++;
     }
 
 }
-if (count > 0)
-{
-    int avg = sum / count;
-    Console.WriteLine("Id leri tek olanlarin ededi ortsi" + avg);
-}
-else
-{
-    Console.WriteLine("Tek Id product yoxdur");
-}
+int avarage = sum / count;
+Console.WriteLine(avarage);
 
-
-
-
-
-
-
-
-
-
-#endregion
+#endregion 
